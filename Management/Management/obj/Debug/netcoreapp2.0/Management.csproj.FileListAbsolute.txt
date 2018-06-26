@@ -1,0 +1,11 @@
+F:\C#\Management\Management\bin\Debug\netcoreapp2.0\Management.deps.json
+F:\C#\Management\Management\bin\Debug\netcoreapp2.0\Management.runtimeconfig.json
+F:\C#\Management\Management\bin\Debug\netcoreapp2.0\Management.runtimeconfig.dev.json
+F:\C#\Management\Management\bin\Debug\netcoreapp2.0\Management.dll
+F:\C#\Management\Management\bin\Debug\netcoreapp2.0\Management.pdb
+F:\C#\Management\Management\obj\Debug\netcoreapp2.0\Management.csprojAssemblyReference.cache
+F:\C#\Management\Management\obj\Debug\netcoreapp2.0\Management.csproj.CoreCompileInputs.cache
+F:\C#\Management\Management\obj\Debug\netcoreapp2.0\Management.AssemblyInfoInputs.cache
+F:\C#\Management\Management\obj\Debug\netcoreapp2.0\Management.AssemblyInfo.cs
+F:\C#\Management\Management\obj\Debug\netcoreapp2.0\Management.dll
+F:\C#\Management\Management\obj\Debug\netcoreapp2.0\Management.pdb
